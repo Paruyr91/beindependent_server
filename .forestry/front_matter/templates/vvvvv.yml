@@ -1,4 +1,9 @@
 ---
 label: vvvvv
 hide_body: false
-fields: []
+fields:
+- name: hi
+  type: text
+  config:
+    required: true
+  label: hi
